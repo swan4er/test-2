@@ -1,7 +1,7 @@
 @echo off
 
 REM Ссылка на GitHub репозиторий
-set REPO_URL=https://github.com/swan4er/test-3.git
+set REPO_URL=https://github.com/swan4er/test-4.git
 
 git init
 git remote add origin %REPO_URL%
